@@ -169,7 +169,7 @@ fabric.properties
 
 .idea/*
 
-!.idea/codeStyles
+!conventions/codeStyles
 !.idea/runConfigurations
 
 ### Intellij+iml ###
